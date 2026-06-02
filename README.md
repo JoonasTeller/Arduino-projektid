@@ -1,3 +1,3 @@
 # Arduino-projektid
 
-[![Watch Demo](thumbnail.png)](https://drive.google.com/file/d/1huU6oYvIgXrOAfr-u_NRp3LnrMI3JJMc/view?usp=sharing)
+[![Watch Demo]](https://drive.google.com/file/d/1huU6oYvIgXrOAfr-u_NRp3LnrMI3JJMc/view?usp=sharing)
