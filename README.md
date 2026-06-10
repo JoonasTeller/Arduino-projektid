@@ -1,4 +1,5 @@
 # Arduino-projektid
+<p>Minu tehtud arduinoga tööd, tegin tinkercadi järgi. Koodi lisasin arduinole programmiga mille nimeks on Arduino ide.</p>
 
 # Projekt 1
 https://drive.google.com/file/d/1huU6oYvIgXrOAfr-u_NRp3LnrMI3JJMc/view?usp=sharing
